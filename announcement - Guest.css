@@ -1,0 +1,23 @@
+i img{
+    width: 100%;
+}
+
+.navbar-nav.bg-gradient-primary
+{
+    background-image: url(Picture7.png);
+}
+
+.btn-sm {
+    position: relative;
+    text-align: left;
+    text-overflow: ellipsis;
+    color: #fff;
+    border-color: rgba(0,0,0,0.2);
+}
+
+.btn-sm:hover {
+    color: #eee;
+}
+   
+
+
